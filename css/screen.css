@@ -1,7 +1,6 @@
 body {
-  /**
-  Set background-color and font-family
-  **/
+  /**Get BackGround Color**/
+  font-family: 'Share Thech Mono',Monaco,monospace;
 }
 h1 {
   font-size: 2em;
