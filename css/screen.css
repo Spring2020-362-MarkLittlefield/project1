@@ -1,6 +1,7 @@
 body {
-  /**Get BackGround Color**/
+  background-color: #0B0C10;
   font-family: 'Share Thech Mono',Monaco,monospace;
+  color: #66FCF1;
 }
 h1 {
   font-size: 2em;
@@ -23,6 +24,7 @@ label {
   clear: both;
 }
 .button {
+	float: left;
 	clear: both;
 	width: 5em;
 	height: 3em;
@@ -53,7 +55,7 @@ label {
 	clear: both;
 	width: 10em;
 	height: 5em;
-	margin-top: 3em;
+	margin-top: 5em;
 	margin-left: 20em;
   }
 }
