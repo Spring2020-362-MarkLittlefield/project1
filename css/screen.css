@@ -30,6 +30,7 @@ li a {
   padding-left: .65em;
   padding-right: .65em;
   text-decoration: none;
+  font-size: .5em;
 }
 p {
   color: #C5C6C7;
@@ -53,6 +54,7 @@ label {
   color: #C5C6C7;
   width: 10em;
   clear: both;
+  font-size: .5em;
 }
 input {
   height: 1em;
