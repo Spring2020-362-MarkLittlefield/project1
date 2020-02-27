@@ -11,6 +11,8 @@ nav {
   color: #45A29E;
   font-size: 1.5em;
   text-align: center;
+  border-top: .1em solid #45A29E;
+  border-bottom: .1em solid #45A29E;
 }
 ul {
 	margin: 0;
@@ -22,7 +24,8 @@ li {
 }
 li a {
 	color: #45A29E;
-	padding: .65em;
+	padding-left: .65em;
+	padding-right: .65em;
 	text-decoration: none;
 }
 li a:hover {
