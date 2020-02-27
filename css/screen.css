@@ -36,6 +36,12 @@ input {
 	width: 20em;
 }
 .button {
+	color: #C5C6C7;
+	width: 10em;
+	height: 3em;
+	border: 2px solid #45A29E;
+	margin-top: 1.5em;
+	background-color: #0B0C10;
 }
 
 @media screen and (min-width: 700px) {
@@ -55,64 +61,7 @@ input {
 	height: 2em;
   }
   .button {
+	height: 5em;
+	margin-top: 3em;
   }
 }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
