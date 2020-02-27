@@ -1,7 +1,6 @@
 body {
   background-color: #0B0C10;
   font-family: 'Share Thech Mono',Monaco,monospace;
-  
 }
 h1 {
   color: #66FCF1;
@@ -22,9 +21,9 @@ div {
   width: 100%;
 }
 form {
-	position: absolute;
-	left: 50%;
-	margin-left: -10em;
+  position: absolute;
+  left: 50%;
+  margin-left: -10em;
 }
 label {
   color: #C5C6C7;
@@ -32,16 +31,20 @@ label {
   clear: both;
 }
 input {
-	height: 1em;
-	width: 20em;
+  height: 1em;
+  width: 20em;
 }
 .button {
-	color: #C5C6C7;
-	width: 10em;
-	height: 3em;
-	border: 2px solid #45A29E;
-	margin-top: 1.5em;
-	background-color: #0B0C10;
+  color: #C5C6C7;
+  width: 10em;
+  height: 3em;
+  border: 2px solid #45A29E;
+  margin-top: 1.5em;
+  background-color: #0B0C10;
+}
+.button:hover {
+  color: #0B0C10;
+  background-color: #45A29E;
 }
 
 @media screen and (min-width: 700px) {
